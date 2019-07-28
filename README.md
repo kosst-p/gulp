@@ -4,10 +4,10 @@
 // Подключаем SlickCarousel
 //= ../../../node_modules/slick-carousel/slick/slick.min.js
 
-// Импортируем Popper
+// Подключаем Popper
 //= ../../../node_modules/popper.js/dist/umd/popper.js
 
-// Импортируем необходимые js-файлы Bootstrap 4 <br>
+// Подключаем необходимые js-файлы Bootstrap 4 <br>
 //= ../../../node_modules/bootstrap/js/dist/util.js<br>
 //= ../../../node_modules/bootstrap/js/dist/alert.js<br>
 //= ../../../node_modules/bootstrap/js/dist/button.js<br>
@@ -21,7 +21,7 @@
 //= ../../../node_modules/bootstrap/js/dist/tab.js<br>
 //= ../../../node_modules/bootstrap/js/dist/toast.js<br>
 
-// Подключение нужных SCSS исходников Bootstrap 4<br>
+// Импортируем нужные SCSS исходники Bootstrap 4<br>
 @import "../../../node_modules/bootstrap/scss/_functions";<br>
 @import "../../../node_modules/bootstrap/scss/_variables";<br>
 @import "../../../node_modules/bootstrap/scss/_mixins";<br>
@@ -60,6 +60,6 @@
 @import "../../../node_modules/bootstrap/scss/_utilities";<br>
 @import "../../../node_modules/bootstrap/scss/_print";<br>
 
-// Подключение нужных SCSS исходников SlickCarousel<br>
+// Импортируем нужные SCSS файлы SlickCarousel<br>
 @import "../../../node_modules/slick-carousel/slick/slick.scss";<br>
 @import "../../../node_modules/slick-carousel/slick/slick-theme.scss";<br>
